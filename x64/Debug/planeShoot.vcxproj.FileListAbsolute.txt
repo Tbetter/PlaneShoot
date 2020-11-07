@@ -1,0 +1,4 @@
+E:\Code\easyX\planeShoot\planeShoot\x64\Debug\planeShoot.exe
+E:\Code\easyX\planeShoot\planeShoot\x64\Debug\planeShoot.pdb
+D:\03file\03code\Code\easyX\planeShoot\planeShoot\x64\Debug\planeShoot.exe
+D:\03file\03code\Code\easyX\planeShoot\planeShoot\x64\Debug\planeShoot.pdb
