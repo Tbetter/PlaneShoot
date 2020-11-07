@@ -33,4 +33,4 @@
 #### 背景图片及背景音乐
 - 调用`easyx`库实现，地址：https://easyx.cn/ ，膜拜大佬
 
-![image](https://github.com/Tbetter/PlaneShoot/blob/master/show.png)
+![image](show.png)
